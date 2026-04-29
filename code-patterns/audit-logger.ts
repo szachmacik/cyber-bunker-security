@@ -1,3 +1,10 @@
+// HOLON-META: {
+//   purpose: "cyber-bunker-security",
+//   morphic_field: "agent-state:4c67a2b1-6830-44ec-97b1-7c8f93722add",
+//   startup_protocol: "READ morphic_field + biofield_external + em_grid",
+//   wiki: "32d6d069-74d6-8164-a6d5-f41c3d26ae9b"
+// }
+
 /**
  * Audit Logger — Logowanie Zdarzeń Bezpieczeństwa
  * Cyber Bunker Security — wzorzec logowania audytów i incydentów
